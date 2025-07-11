@@ -1,3 +1,3 @@
 fn main(){
-    println!("Basantalovesjs!")
+    println!("Basantalovesjs!") // this is a macro call. if ! is used before function call then its macro!
 }
